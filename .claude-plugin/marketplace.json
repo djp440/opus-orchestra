@@ -1,0 +1,12 @@
+{
+  "name": "opus-orchestra",
+  "owner": { "name": "return233" },
+  "metadata": { "description": "opus-orchestra：Opus 主控分级派工 + 成本统计插件。" },
+  "plugins": [
+    {
+      "name": "opus-orchestra",
+      "source": "./",
+      "description": "Opus 主控 + Sonnet/Haiku 分级派工的省钱模式，附成本统计。"
+    }
+  ]
+}

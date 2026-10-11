@@ -1,0 +1,2 @@
+{"type":"assistant","message":{"id":"h1","model":"claude-haiku-5-5","usage":{"input_tokens":1000,"cache_creation_input_tokens":0,"cache_read_input_tokens":0,"output_tokens":1000}}}
+{"type":"assistant","message":{"id":"s1x","model":"claude-sonnet-5-5","usage":{"input_tokens":1000,"cache_creation_input_tokens":0,"cache_read_input_tokens":0,"output_tokens":1000}}}

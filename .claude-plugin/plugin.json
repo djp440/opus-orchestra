@@ -1,0 +1,10 @@
+{
+  "name": "opus-orchestra",
+  "version": "0.1.0",
+  "description": "Opus 主控 + Sonnet/Haiku 分级派工的省钱模式（/orchestra 开关），附 token 与美元成本统计及纯 Opus 对比（/orchestra-stats）。",
+  "author": { "name": "return233" },
+  "repository": "https://github.com/djp440/opus-orchestra",
+  "license": "MIT",
+  "keywords": ["opus", "sonnet", "haiku", "cost", "subagents", "orchestration"],
+  "hooks": "./hooks/hooks.json"
+}
